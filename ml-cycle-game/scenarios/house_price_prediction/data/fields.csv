@@ -1,0 +1,23 @@
+name,description,type,category,is_target
+id,Unique identifier.,int,meta,false
+date,Date the house was sold.,str,temporal,false
+price,The sale price.,float,outcome,true
+bedrooms,Number of bedrooms.,int,property,false
+bathrooms,Number of bathrooms.,float,property,false
+sqft_living,Total interior living space (sqft).,int,property,false
+sqft_lot,Total land area (sqft).,int,property,false
+floors,Number of floors.,float,property,false
+waterfront,A binary flag (1 if it has a waterfront view).,int,property,false
+view,A rating from 0 to 4 of how good the view is.,int,quality,false
+condition,A rating from 1 to 5 on the overall condition.,int,quality,false
+grade,A rating from 1 to 13 on construction/design quality.,int,quality,false
+sqft_above,Square footage of living space above ground.,int,property,false
+sqft_basement,Square footage of living space below ground.,int,property,false
+yr_built,The year the house was built.,int,temporal,false
+yr_renovated,The year the house was last renovated (0 if never).,int,temporal,false
+zipcode,The 5-digit zipcode.,int,location,false
+lat,Latitude coordinate.,float,location,false
+long,Longitude coordinate.,float,location,false
+sqft_living15,The average living space of the 15 nearest neighbors.,int,neighborhood,false
+sqft_lot15,The average lot size of the 15 nearest neighbors.,int,neighborhood,false
+

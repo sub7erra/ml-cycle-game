@@ -1,0 +1,10 @@
+# Ignore environment variables file to protect secrets.
+.env
+
+# Ignore Python cache files and compiled code to keep the repository clean.
+__pycache__/
+*.pyc
+
+# Ignore Streamlit's configuration folder
+.streamlit/
+
