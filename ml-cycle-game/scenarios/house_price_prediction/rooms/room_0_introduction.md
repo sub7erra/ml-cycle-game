@@ -1,4 +1,4 @@
-## Welcome to Propri-AI!
+## Welcome to Propert-AI!
 
 You are the newest hire in our predictive analytics division. We're excited to have you on board!
 

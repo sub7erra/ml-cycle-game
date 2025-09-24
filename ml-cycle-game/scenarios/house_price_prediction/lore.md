@@ -1,8 +1,8 @@
-# Project Lore: Propri-AI House Price Predictor
+# Project Lore: Propert-AI House Price Predictor
 
 ## 1. Project Background & Data Source
 
-- **Company:** Propri-AI, a new predictive analytics division at a major real estate company.
+- **Company:** Propert-AI, a new predictive analytics division at a major real estate company.
 - **Business Goal:** Build a tool to accurately estimate a house's sale price for real estate agents. The goal is to empower agents to set competitive prices and manage client expectations effectively.
 - **ML Task:** Regression.
 - **Dataset:** King County House Sales dataset. You can tell the student it's a proprietary dataset of historical sales from the King County, WA area, from 2014-2015.
